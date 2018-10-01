@@ -1,6 +1,4 @@
-# Bootstrap-Login-and-Registration
 
-## Simple Login and Sign up screen UI developed using Bootstrap
 
 ### Instructions
 
